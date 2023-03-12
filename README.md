@@ -33,3 +33,4 @@ wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/S
 
 wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/DesktopEnvironment/Apt/Xfce4/de-apt-xfce4.sh --no-check-certificate && bash de-apt-xfce4.sh
 
+wget https://github.com/EXALAB/Anlinux-Resources/raw/master/Scripts/DesktopEnvironment/Heavy/KDE/Apt/de-apt-kde.sh --no-check-certificate && bash de-apt-kde.sh
